@@ -6,3 +6,12 @@ R=Para poder mandar señales se parece algo asi  como el sistema nervioso del cu
 R=Los creadores fueron Vicent Cerf y  Bob Karhan y esto funciona por medio de señales de un lugar a otro enviando informacion.  
 4.Describe  el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia de tu telefono :
 R=Es que contiene miles de millones de lineas por las que viajan las señales por medio del internet.
+5.Describe los protocolos que existen en internet, en específico HTTP y HTML
+R=como su nombre lo dice en ingles cuyo significado de las siglas es "Hypertext Transfer Protocol" que como dice es un protocolo el cual nos permite realizar una peticion de recursos y datos
+6.En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+R= Encriptación: La Encriptación consiste en revolver o en acomodar el mensaje de tal manera en que no se entendible el texto original esto se a llevado acabo de los años por ejemplo hace siglo el General Julio Cesar utilizaba un tipo de cifrado para que sus enemigos no pudieran entender el mensaje
+Llave Públicas: La versión criptográfica es un par de secuencias de caracteres que usadas por un programa adecuado pueden cifrar y descifrar un texto ,los protocolos de seguridad conocidos son los SSL (Secure Sockets Layer) y los TLS (Tranport Layer Security)
+7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet
+R= Uno de lo metodos que se utilizan para insertar virus en ru coputadora es por Mail que piden que inicies sesion lo cual en un correo seguro no te lo pediria, otro forma para protegerte es revisando tu equipo de una vez al mes, no aceptando intalasiones de programas sospechosos 
+8.¿Cómo funciona la búsqueda de google?
+R=Una vez que descubren la URL de una página, la visitan (rastrean) para averiguar qué contiene. Renderizan la página y analizan el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda
