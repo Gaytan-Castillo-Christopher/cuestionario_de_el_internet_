@@ -1,26 +1,29 @@
 Márquez Lara Bruno Emilio, Gaytan Castillo Christhoper- 4°F
 
 1.¿Que es el internet? 
-R= El internet es el medio de comunicacion mas utilizado por todo el mundo, y es un invento que lo cambio todo por que nos permite obtener mayor informacion mas rapido y detalladamente a comparacion de las bibliotecas que tenias que salir de tu casa, ir buscar el libro que te sirviera encontrar la pagina, y en cambio el internet es algo mas sencillo por que estas en tu casa prendes tu telefono entras a Google y listo ya tienes la informacion.
+R= El internet es el medio de comunicacion mas utilizado por todo el mundo, y es un invento que lo cambio todo por que nos permite obtener mayor informacion mas rapido y detalladamente a comparacion de las bibliotecas que tenias que salir de tu casa, ir buscar el libro que te sirviera encontrar la pagina, y en cambio el internet es algo mas sencillo por que estas en tu casa prendes tu telefono entras a Google y listo ya tienes la informacion. <!-- ---- 6oct | @SRTP: ok, pero no tiene nada que ver con el vídeo ----  -->
 
 2.Describe los medios fisicos y de propagacion de ondas por la que transmite la informacion en internet:
 R=Para poder mandar señales se parece algo asi  como el sistema nervioso del cuerpo cuando te haces daño tu cerebro le manda la señal de dolor a la parte del cuerpo dañado pero aqui en ves de ulitizar el sistema nervioso utliza el codigo binario (0,1) y asi es como funciona.
+<!-- ---- 6oct | @SRTP: no mencionaron cuáles son los medios de propagación de internet, ¿vieron los vídeos? ----  -->
 
 3.¿Como se organiza el internet? Hablando de las direcciones IP y los DNS :
 R=Los creadores fueron Vicent Cerf y  Bob Karhan y esto funciona por medio de señales de un lugar a otro enviando informacion.
+<!-- ---- 6oct | @SRTP: esta respuesta no tiene nada que ver con la pregunta ----  -->
 
 4.Describe  el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia de tu telefono :
 R=Es que contiene miles de millones de lineas por las que viajan las señales por medio del internet.
+<!-- ---- 6oct | @SRTP: no viste los vídeos ----  -->
 
 5.Describe los protocolos que existen en internet, en específico HTTP y HTML
-R=como su nombre lo dice en ingles cuyo significado de las siglas es "Hypertext Transfer Protocol" que como dice es un protocolo el cual nos permite realizar una peticion de recursos y datos.
+R=como su nombre lo dice en ingles cuyo significado de las siglas es "Hypertext Transfer Protocol" que como dice es un protocolo el cual nos permite realizar una peticion de recursos y datos. <!-- ---- 6oct | @SRTP: incompleto ----  -->
 
 6.En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 R= Encriptación: La Encriptación consiste en revolver o en acomodar el mensaje de tal manera en que no se entendible el texto original esto se a llevado acabo de los años por ejemplo hace siglo el General Julio Cesar utilizaba un tipo de cifrado para que sus enemigos no pudieran entender el mensaje
-Llave Públicas: La versión criptográfica es un par de secuencias de caracteres que usadas por un programa adecuado pueden cifrar y descifrar un texto ,los protocolos de seguridad conocidos son los SSL (Secure Sockets Layer) y los TLS (Tranport Layer Security)
+Llave Públicas: La versión criptográfica es un par de secuencias de caracteres que usadas por un programa adecuado pueden cifrar y descifrar un texto ,los protocolos de seguridad conocidos son los SSL (Secure Sockets Layer) y los TLS (Tranport Layer Security) <!-- ---- 6oct | @SRTP: esta respuesta no dice nada. ----  -->
 
 7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet
-R= Uno de lo metodos que se utilizan para insertar un virus en su computadora es por EMail que piden que inicies sesion lo cual en un correo seguro no te lo pediria, otro forma para protegerte es revisando tu equipo de una vez al mes, no aceptando intalasiones de programas sospechosos.
+R= Uno de lo metodos que se utilizan para insertar un virus en su computadora es por EMail que piden que inicies sesion lo cual en un correo seguro no te lo pediria, otro forma para protegerte es revisando tu equipo de una vez al mes, no aceptando intalasiones de programas sospechosos. <!-- ---- 6oct | @SRTP: dice dos párrafos, y la respuesta no tiene nada que ver con los vídeos. ----  -->
 
 8.¿Cómo funciona la búsqueda de google?
-R=Una vez que descubren la URL de una página, la visitan (rastrean) para averiguar qué contiene. Renderizan la página y analizan el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda
+R=Una vez que descubren la URL de una página, la visitan (rastrean) para averiguar qué contiene. Renderizan la página y analizan el contenido textual y no textual, además del diseño visual general, para decidir cómo mostrarla en los resultados de la Búsqueda <!-- ---- 6oct | @SRTP: ok ----  -->
